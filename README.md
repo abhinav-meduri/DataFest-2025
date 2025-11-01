@@ -4,8 +4,8 @@
 This project analyzes commercial real estate market trends, focusing on the post-pandemic recovery across major US markets. The analysis leverages proprietary data from Savills, a leading international commercial real estate firm, to provide insights into office space utilization, rental trends, and market dynamics following the COVID-19 pandemic.
 
 ## Team Members
-- Aashish Cheruvu
 - Abhinav Meduri
+- Aashish Cheruvu
 - Shravan Selvavel
 - Sharad Parulekar
 
