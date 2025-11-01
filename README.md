@@ -39,8 +39,10 @@ Our analysis leverages several advanced analytical approaches:
 ## Key Findings
 
 ### 1. Occupancy Recovery Patterns
-![Occupancy Recovery](plots/occupany_recovery_by_market.png)
-*Figure 1: Post-pandemic occupancy recovery across major US markets*
+![Post-Pandemic Office Occupancy Recovery Trends](plots/occupany_recovery_by_market.png)
+
+**Figure 1: Post-Pandemic Office Occupancy Recovery (2020-2024)**  
+*Analysis of occupancy trends across major US metropolitan areas showing the recovery trajectory of office space utilization following the COVID-19 pandemic. The visualization highlights the varying rates of return-to-office across different markets.*
 
 ### 2. Market-Specific Insights
 - **San Francisco Bay Area**: Slow but steady recovery in tech sector
@@ -108,16 +110,22 @@ pip install -r requirements.txt
 ## Key Visualizations
 
 ### Market Recovery Dashboard
-![Tableau Dashboard](plots/key-plots/Tableau.png)
-*Figure 2: Interactive dashboard showing market recovery metrics*
+![Commercial Real Estate Market Recovery Dashboard](plots/key-plots/Tableau.png)
+
+**Figure 2: Interactive Market Recovery Dashboard**  
+*Interactive Tableau dashboard providing real-time insights into key market recovery metrics, including leasing activity, vacancy rates, and rental price trends across major commercial real estate markets.*
 
 ### Feature Importance Analysis
-![SHAP Analysis](plots/key-plots/SHAP.png)
-*Figure 3: SHAP values showing key drivers of occupancy rates*
+![Feature Importance Analysis Using SHAP Values](plots/key-plots/SHAP.png)
+
+**Figure 3: SHAP Analysis of Occupancy Rate Determinants**  
+*Visualization of SHAP (SHapley Additive exPlanations) values identifying the most influential factors affecting office space occupancy rates. The analysis highlights the relative importance of economic indicators, local market conditions, and property characteristics in predicting occupancy levels.*
 
 ### Occupancy Forecasting
-![Prophet Forecast](plots/key-plots/Prophet.png)
-*Figure 4: Time series forecasting of office occupancy rates*
+![Time Series Forecasting of Office Occupancy](plots/key-plots/Prophet.png)
+
+**Figure 4: 12-Month Office Occupancy Forecast**  
+*Time series forecast generated using Facebook's Prophet model, projecting office occupancy trends for the upcoming year. The visualization includes confidence intervals and accounts for seasonal patterns and market-specific recovery trajectories.*
 
 ## Conclusion
 Our analysis reveals significant variations in commercial real estate recovery patterns across markets and sectors. Key findings include:
